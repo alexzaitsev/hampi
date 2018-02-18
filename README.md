@@ -19,7 +19,7 @@ It's written on Javascript without any bot frameworks (such as Microsoft Bot Fra
 Performs tweets search and sends them to users according to their prefereces.
 
 ## Mongodb database
-Mongodb credential unfortunately are lost therefore I cannot provide you the sample of the database.
+Mongodb credentials unfortunately are lost therefore I cannot provide you the sample of the database.
 
 ## Others
 Just create your Facebook page, setup it according to the docs. Create application in your Twitter account and profide necessary information in config. Create Botanalytics account and provide token in the [config](https://github.com/alexzaitsev/hampi/blob/master/routes/config.json) file.
