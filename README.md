@@ -1,5 +1,5 @@
 # Hampi
-Hampi is a Facebook bot that helps you to track your favourite news in Twitter.
+Hampi is a Facebook bot that helps you to track your favourite news in Twitter. You can subscribe to any phrase or hashtag and Hampi will deliver new tweets that meet your patters each hour.
 
 ![Cover](https://github.com/alexzaitsev/hampi/blob/master/fb_cover.jpg)
 
